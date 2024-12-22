@@ -1,0 +1,1 @@
+# Gateway Kiosk Browser Settings
