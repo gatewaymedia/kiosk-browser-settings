@@ -1,0 +1,1 @@
+kiosk-browser --always-on-top --kiosk --frame=false https://gc.org.au/signage/#/signage-missions 

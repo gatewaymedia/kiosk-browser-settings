@@ -1,0 +1,1 @@
+kiosk-browser --always-on-top --kiosk --frame=false https://gc.org.au/ --preload "Desktop/Kiosk Browser Commands/inject.js"

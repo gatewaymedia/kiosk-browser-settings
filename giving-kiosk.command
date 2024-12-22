@@ -1,0 +1,1 @@
+kiosk-browser --always-on-top --kiosk --reload-idle=60 --frame=false http://192.168.0.80:3080/
